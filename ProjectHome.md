@@ -1,0 +1,1 @@
+Among other things, Java code to parse .trs files from Transcriber: http://trans.sourceforge.net/
